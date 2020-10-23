@@ -1,0 +1,44 @@
+:root{
+    --branco: white;
+    --preta:#141414;
+}
+
+.navbar {
+    background-color: #2E2E2E;
+}
+
+.letras {
+    color: white;
+    cursor: pointer;
+    transition: .3s ease all;
+    font-size: medium;
+}
+
+.letras:hover {
+    color: #00BFFF;
+}
+
+.quem-somos {
+    background-color: #00BFFF;
+    color: white;
+}
+
+
+.body { 
+    font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif; font-size: 24px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+
+} 
+
+.margin{   
+    padding-bottom: 50px;    
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #58FAF4;
+}
+
+.bg-footer{
+    background-color: #2E2E2E;
+    color: white;
+}
